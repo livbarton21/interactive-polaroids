@@ -28,21 +28,21 @@ html {
 
 .polaroid:first-child {
   transform: rotate(-10deg);
-  left: 10em;
+  left: 13em;
   top: 6em;
   z-index: 1;
 }
 
 .polaroid:nth-child(2) {
   transform: rotate(3deg);
-  left: 20em;
-  top: 8em;
+  left: 18em;
+  top: 9em;
   z-index: 3;
 }
 
 .polaroid:nth-child(3) {
-  transform: rotate(30deg);
-  left: 25em;
+  transform: rotate(28deg);
+  left: 23em;
   top: 6em;
   z-index: 2;
 }
