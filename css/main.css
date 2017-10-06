@@ -31,5 +31,18 @@ html {
   left: 10em;
   top: 6em;
   z-index: 1;
+}
 
+.polaroid:nth-child(2) {
+  transform: rotate(3deg);
+  left: 20em;
+  top: 8em;
+  z-index: 3;
+}
+
+.polaroid:nth-child(3) {
+  transform: rotate(30deg);
+  left: 25em;
+  top: 6em;
+  z-index: 2;
 }
